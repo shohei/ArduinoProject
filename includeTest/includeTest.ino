@@ -1,0 +1,2 @@
+#define hoge 0
+

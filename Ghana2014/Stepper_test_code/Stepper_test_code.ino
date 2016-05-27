@@ -46,7 +46,8 @@ void setup()
 
 void loop(){
   int TIME = 5000;
-  int SPEED = 30000;
+//  int SPEED = 30000;
+  int SPEED = 200000;
   Forward(TIME,SPEED);
   Backward(TIME,SPEED);
   //Forward(20000,30000);
